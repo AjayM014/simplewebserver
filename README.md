@@ -136,7 +136,9 @@ Testing the webserver.
 </html>
 ```
 ## OUTPUT:
-![alt text](output.jpg)
+![image](https://github.com/AjayM014/simplewebserver/assets/150011759/b9b5a480-f56d-49a1-b213-e223f46fb101)
+
+
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
